@@ -21,7 +21,7 @@
                         <sections>
                             <tableViewSection headerTitle="Test" id="8f8-vP-P1n">
                                 <cells>
-                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="P25-dn-aOm">
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" id="P25-dn-aOm">
                                         <rect key="frame" x="0.0" y="56" width="375" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="P25-dn-aOm" id="oSA-n7-vuk">
@@ -62,15 +62,13 @@
                                                 </datePicker>
                                             </subviews>
                                             <constraints>
-                                                <constraint firstItem="zfT-r6-wwd" firstAttribute="centerY" secondItem="hD1-pz-ahU" secondAttribute="centerY" id="IUQ-nj-LV0"/>
                                                 <constraint firstAttribute="trailingMargin" secondItem="zfT-r6-wwd" secondAttribute="trailing" constant="-8" id="Xfv-jc-NEn"/>
                                                 <constraint firstItem="zfT-r6-wwd" firstAttribute="top" secondItem="hD1-pz-ahU" secondAttribute="topMargin" id="rqp-LT-GL1"/>
-                                                <constraint firstAttribute="bottomMargin" secondItem="zfT-r6-wwd" secondAttribute="bottom" id="uiK-P9-TaI"/>
                                                 <constraint firstItem="zfT-r6-wwd" firstAttribute="leading" secondItem="hD1-pz-ahU" secondAttribute="leadingMargin" constant="-8" id="uwn-Hg-eLn"/>
                                             </constraints>
                                         </tableViewCellContentView>
                                     </tableViewCell>
-                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="eAW-SX-d39">
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" id="eAW-SX-d39">
                                         <rect key="frame" x="0.0" y="340" width="375" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="eAW-SX-d39" id="xf5-yX-GQl">
